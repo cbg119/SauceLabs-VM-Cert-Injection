@@ -2,7 +2,7 @@
 How to use pre-runs on Sauce Labs to install custom root SSL certificates.
 
 
-#How, what, and why?
+# How, what, and why?
 
 One of the root certificates used by LetsEncrypt has recently expired (https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/). 
 LetsEncrypt is widely used by sites on the internet to generate their SSL certificate to allow HTTPS connections.
